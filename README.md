@@ -21,16 +21,6 @@
 در صورتی که میخواهید از کد پروژه استفاده کنید، فایل‌های زیر **باید در پوشه‌ی ریشه (root)** کنار **فایل اصلی پایتون** قرار بگیرند:
 
 template.xlsx
+
 coin.ico
 
-📁 ساختار پیشنهادی پروژه
-
-Tiered-Wage-Calculator/
-├── Tiered Wage V.1.2.0.py
-├── Tiered Wage V.1.2.0.exe
-├── template.xlsx
-├── coin.ico
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── README.md
